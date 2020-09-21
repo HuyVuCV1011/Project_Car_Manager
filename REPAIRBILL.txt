@@ -1,0 +1,3 @@
+RE1,Audi Q3,GPS Error,5,10,1,1,2019
+RE2,Audi Q3,Motor Control System Error,3,150,2,2,2019
+RE3,BMW I8,System Boot Error,2,50,10,11,2019

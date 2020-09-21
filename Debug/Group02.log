@@ -1,0 +1,43 @@
+﻿  Bill.cpp
+d:\đồ án\hk3\group 02\group02\bill.cpp(85): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\bill.cpp(96): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\bill.cpp(109): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\bill.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  BillRepair.cpp
+d:\đồ án\hk3\group 02\group02\billrepair.cpp(68): warning C4018: '<': signed/unsigned mismatch
+  bmp.cpp
+d:\đồ án\hk3\group 02\group02\bmp.cpp(60): warning C4018: '<': signed/unsigned mismatch
+  Car.cpp
+d:\đồ án\hk3\group 02\group02\car.cpp(15): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\car.cpp(16): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\car.cpp(565): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\car.cpp(671): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\đồ án\hk3\group 02\group02\car.cpp(675): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  Menu.cpp
+d:\đồ án\hk3\group 02\group02\menu.cpp(246): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+d:\đồ án\hk3\group 02\group02\menu.cpp(251): warning C4018: '>': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\menu.cpp(253): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+d:\đồ án\hk3\group 02\group02\menu.cpp(316): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\menu.cpp(377): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\menu.cpp(426): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\menu.cpp(475): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\menu.cpp(507): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\đồ án\hk3\group 02\group02\menu.cpp(515): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\đồ án\hk3\group 02\group02\menu.cpp(519): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\đồ án\hk3\group 02\group02\menu.cpp(537): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\menu.cpp(577): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\menu.cpp(607): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\menu.cpp(885): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\menu.cpp(929): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+d:\đồ án\hk3\group 02\group02\menu.cpp(933): warning C4018: '>': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\menu.cpp(935): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+d:\đồ án\hk3\group 02\group02\menu.cpp(986): warning C4018: '<': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\menu.cpp(1036): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+d:\đồ án\hk3\group 02\group02\menu.cpp(1041): warning C4018: '>': signed/unsigned mismatch
+d:\đồ án\hk3\group 02\group02\menu.cpp(1043): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+d:\đồ án\hk3\group 02\group02\menu.cpp(1058): warning C4101: 'num': unreferenced local variable
+  Setting.cpp
+  Table.cpp
+  Generating Code...
+  Group02.vcxproj -> D:\Đồ Án\HK3\Group 02\Debug\Group02.exe

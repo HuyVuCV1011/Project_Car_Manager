@@ -1,0 +1,14 @@
+Electrical System Error
+System Boot Error
+Motor Control System Error
+Brake system Error
+GPS Error
+Engine Work Unstable
+Stall Error
+Flat Tyre
+Puncture
+Car Air Conditioner Error
+Car Gearbox Error
+Oil Change
+Check 
+Car Maintenance

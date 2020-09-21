@@ -1,0 +1,19 @@
+REPORT: TOTAL RECEIPTS
+Year: All
+Month: All
+[ General ]
+*Total sales: 3053290$
+*Total profit: 128090$
+[ Detail ]
+*Bill ID: BILLNO0
+*Date: 10/10/2019
+Car ID,Name,Unit price,Quantity
+AUD002,Audi Q5,55290,1
+*Promotion: 0$
+*Total: 55290$
+*Bill ID: BILLNO1
+*Date: 28/7/2019
+Car ID,Name,Unit price,Quantity
+BUG001,Bugatti Chiron,2998000,1
+*Promotion: 0$
+*Total: 2998000$

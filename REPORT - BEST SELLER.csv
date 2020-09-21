@@ -1,0 +1,15 @@
+REPORT: BEST SELLER
+NO.1: 10 cars
+ID,Name,Sale price, Brand, Seat
+SKO002,Skoda Superb,35260,Skoda Auto,5
+NO.2: 5 cars
+ID,Name,Sale price, Brand, Seat
+AUD001,Audi Q3,34750,Audi,5
+BMW001,BMW X1,51200,BMW,5
+BMW002,BMW Z4,57850,BMW,4
+CHE001,Chervolet Spark,18100,Chervolet,4
+VIN001,Vinfast Fadil,18528,Vinfast,5
+NO.3: 3 cars
+ID,Name,Sale price, Brand, Seat
+MER002,Mercedes A-CLASS,37935,Mercedes,4
+POR002,Porsche 718 Cayman Models,75000,Porsche,2
